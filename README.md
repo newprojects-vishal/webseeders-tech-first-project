@@ -84,8 +84,6 @@ doc-qa-system/
 
 ## Setup
 
-### steps are writtned below ,for testing the project on your system
-
 ### 1. Install Ollama
 
 Download and install from https://ollama.com/download
