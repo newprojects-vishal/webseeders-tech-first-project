@@ -84,6 +84,8 @@ doc-qa-system/
 
 ## Setup
 
+### steps are writtned below ,for testing the project on your system
+
 ### 1. Install Ollama
 
 Download and install from https://ollama.com/download
@@ -135,11 +137,6 @@ Open your browser at `http://localhost:8501`
 
 ## Limitations
 
-- Answer quality depends on TinyLlama's capability — larger models will produce better answers if your machine has more RAM
+- Answer quality depends on TinyLlama's capability — larger models will produce better answers if the machine has more RAM
 - Scanned PDFs without embedded text layers are not supported
 - Very large PDFs (100+ pages) may take longer to ingest on first upload
-
-## Screenshots
-
-![Upload and Ingest](screenshots/upload.png)
-![Question and Answer](screenshots/answer.png)
